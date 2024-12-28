@@ -1,0 +1,11 @@
+/chromedriver-win64
+DB/.env
+DB/mongo-spark-connector_2.13-10.3.0.jar
+/spark-temp
+/spark-3.5.3-bin-hadoop3
+test.py
+tmp.json
+SparkAnalyse.py
+DB/Tables/keywords_articles_mapping.json
+DB/Tables/keywords_articles_mapping.csv
+DB/queries/keywords_articles_mapping_queries.sql

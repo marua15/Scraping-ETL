@@ -1,0 +1,393 @@
+[
+{
+    "title": "Exploring the Integration of Blockchain and Distributed DevOps for Secure, Transparent, and Traceable Software Development",
+    "authors": [
+        "Junaid Nasir Qureshi",
+        "Muhammad Shoaib Farooq",
+        "Usman Ali",
+        "Adel Khelifi",
+        "Zabihullah Atal"
+    ],
+    "authors_with_affiliations": [
+        {
+            "author": "Junaid Nasir Qureshi",
+            "university": "Department of Computer Science, School of System and Technology, University of Management and Technology, Lahore",
+            "country": "Pakistan",
+            "location": "Department of Computer Science, School of System and Technology, University of Management and Technology, Lahore, Pakistan"
+        },
+        {
+            "author": "Muhammad Shoaib Farooq",
+            "university": "Department of Computer Science, School of System and Technology, University of Management and Technology, Lahore",
+            "country": "Pakistan",
+            "location": "Department of Computer Science, School of System and Technology, University of Management and Technology, Lahore, Pakistan"
+        },
+        {
+            "author": "Usman Ali",
+            "university": "Department of Computer Science, School of System and Technology, University of Management and Technology, Lahore",
+            "country": "Pakistan",
+            "location": "Department of Computer Science, School of System and Technology, University of Management and Technology, Lahore, Pakistan"
+        },
+        {
+            "author": "Adel Khelifi",
+            "university": "Computer Science and Information Technology, Abu Dhabi University, Abu Dhabi",
+            "country": "United Arab Emirates",
+            "location": "Computer Science and Information Technology, Abu Dhabi University, Abu Dhabi, United Arab Emirates"
+        },
+        {
+            "author": "Zabihullah Atal",
+            "university": "Department of Computer Science, Kardan University, Kabul",
+            "country": "Afghanistan",
+            "location": "Department of Computer Science, Kardan University, Kabul, Afghanistan"
+        }
+    ],
+    "universities": [
+        "Department of Computer Science, School of System and Technology, University of Management and Technology, Lahore",
+        "Department of Computer Science, School of System and Technology, University of Management and Technology, Lahore",
+        "Department of Computer Science, School of System and Technology, University of Management and Technology, Lahore",
+        "Computer Science and Information Technology, Abu Dhabi University, Abu Dhabi",
+        "Department of Computer Science, Kardan University, Kabul"
+    ],
+    "countries": [
+        "Pakistan",
+        "Pakistan",
+        "Pakistan",
+        "United Arab Emirates",
+        "Afghanistan"
+    ],
+    "locations": [
+        "Department of Computer Science, School of System and Technology, University of Management and Technology, Lahore, Pakistan",
+        "Department of Computer Science, School of System and Technology, University of Management and Technology, Lahore, Pakistan",
+        "Department of Computer Science, School of System and Technology, University of Management and Technology, Lahore, Pakistan",
+        "Computer Science and Information Technology, Abu Dhabi University, Abu Dhabi, United Arab Emirates",
+        "Department of Computer Science, Kardan University, Kabul, Afghanistan"
+    ],
+    "Date": "29 November 2024",
+    "Month": "November",
+    "Day": 29,
+    "Year": 2024,
+    "abstract": "Distributed DevOps is a software development methodology that aims to integrate the work of development and operations teams without being bound by geographical constraints. This methodology excels in enhancing collaboration and the speed of software development. However, it does suffer from a lack of security, transparency, and traceability, which can result in project delays, a lack of trust between stakeholders, and even project failure. This paper addresses these issues of Distributed DevOps by implementing Blockchain technology. In this paper, we propose a novel framework that leverages blockchain technology to address the challenges faced by Distributed DevOps. Through performance analysis, we demonstrate the effectiveness of our framework in a real-world scenario, highlighting its ability to improve transparency, traceability, and the security of the DevOps pipeline. Our findings underscore the potential of blockchain-empowered solutions in revolutionizing DevOps practices. Furthermore, this research offers a practical framework for organizations seeking to optimize their development processes by integrating blockchain technology.",
+    "doi": "https://doi.org/10.1109/ACCESS.2024.3509036",
+    "citations": 2,
+    "type": "RESEARCH-ARTICLE",
+    "keywords": [
+        "DevOps",
+        "Blockchains",
+        "Software",
+        "Software development management",
+        "InterPlanetary File System",
+        "Smart contracts",
+        "Organizations",
+        "Heuristic algorithms",
+        "Codes",
+        "Software engineering"
+    ],
+    "topic": "DevOps",
+    "website": "IEEE Xplore",
+    "publisher": {
+        "name": "IEEE Access",
+        "ISSN": "21693536",
+        "Quartile": "Q1"
+    }
+},
+{
+    "title": "The Future of Software Development With GenAI: Evolving Roles of Software Personas",
+    "authors": [
+        "Tolga ÅimÅek",
+        "ÃaÄlar GÃ¼lÅeni",
+        "Gokcen Arkali Olcay"
+    ],
+    "authors_with_affiliations": [
+        {
+            "author": "Tolga ÅimÅek",
+            "university": "Siemens AS, Kartal R&D Center, Istanbul",
+            "country": "TÃ¼rkiye",
+            "location": "Siemens AS, Kartal R&D Center, Istanbul, TÃ¼rkiye"
+        },
+        {
+            "author": "ÃaÄlar GÃ¼lÅeni",
+            "university": "TÃ¼rkiye Ä°Å BankasÄ± Artificial Intelligence Department, Istanbul",
+            "country": "TÃ¼rkiye",
+            "location": "TÃ¼rkiye Ä°Å BankasÄ± Artificial Intelligence Department, Istanbul, TÃ¼rkiye"
+        },
+        {
+            "author": "Gokcen Arkali Olcay",
+            "university": "Department of Business Administration, University of Wisconsin Green Bay, Green Bay, WI",
+            "country": "USA",
+            "location": "Department of Business Administration, University of Wisconsin Green Bay, Green Bay, WI, USA"
+        }
+    ],
+    "universities": [
+        "Siemens AS, Kartal R&D Center, Istanbul",
+        "TÃ¼rkiye Ä°Å BankasÄ± Artificial Intelligence Department, Istanbul",
+        "Department of Business Administration, University of Wisconsin Green Bay, Green Bay, WI"
+    ],
+    "countries": [
+        "TÃ¼rkiye",
+        "TÃ¼rkiye",
+        "USA"
+    ],
+    "locations": [
+        "Siemens AS, Kartal R&D Center, Istanbul, TÃ¼rkiye",
+        "TÃ¼rkiye Ä°Å BankasÄ± Artificial Intelligence Department, Istanbul, TÃ¼rkiye",
+        "Department of Business Administration, University of Wisconsin Green Bay, Green Bay, WI, USA"
+    ],
+    "Date": "06 September 2024",
+    "Month": "September",
+    "Day": 6,
+    "Year": 2024,
+    "abstract": "Recent advancements in Generative AI (GenAI) algorithms have been reshaping the Software Development Lifecycle (SDLC) landscape. These transformations not only enhance the speed, accuracy, and productivity of SDLC tasks but also influence the roles and existence of software personas within the SDLC ecosystem. This study evaluates GenAI's effects on the roles of software personas engaged in the typical SDLC phases: planning, design, development, testing, and deployment. When evaluating these effects, it becomes evident that GenAI's impact varies across roles and their relation to specific SDLC phases and activities. While some roles experience a substantial impact, achieving full AI-driven automation remains a challenge for roles that demand critical thinking, empathy, and other human supervision. Overall, GenAI's penetration will necessitate new skills and a redefinition of roles for many tasks within SDLC, where humans and AI will collaborate to create better, faster, and more efficient software.",
+    "doi": "https://doi.org/10.1109/EMR.2024.3454112",
+    "citations": 158,
+    "type": "RESEARCH-ARTICLE",
+    "keywords": [
+        "Software",
+        "Artificial intelligence",
+        "Business",
+        "DevOps",
+        "Software algorithms",
+        "Testing",
+        "Planning"
+    ],
+    "topic": "DevOps",
+    "website": "IEEE Xplore",
+    "publisher": {
+        "name": "IEEE Engineering Management Review",
+        "ISSN": "19374178",
+        "Quartile": "Q2"
+    }
+},
+{
+    "title": "Using Full-dimensional Programmability to Power Self-driving 6G Networks",
+    "authors": [
+        "Tong Wu",
+        "Haipeng Yao",
+        "Tianle Mai",
+        "Zunliang Wang",
+        "Fu Wang",
+        "Mohsen Guizani"
+    ],
+    "authors_with_affiliations": [
+        {
+            "author": "Tong Wu",
+            "university": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing",
+            "country": "China",
+            "location": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China"
+        },
+        {
+            "author": "Haipeng Yao",
+            "university": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing",
+            "country": "China",
+            "location": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China"
+        },
+        {
+            "author": "Tianle Mai",
+            "university": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing",
+            "country": "China",
+            "location": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China"
+        },
+        {
+            "author": "Zunliang Wang",
+            "university": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing",
+            "country": "China",
+            "location": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China"
+        },
+        {
+            "author": "Fu Wang",
+            "university": "School of Electronic Engineering, Beijing University of Posts and Telecommunications, Beijing",
+            "country": "China",
+            "location": "School of Electronic Engineering, Beijing University of Posts and Telecommunications, Beijing, China"
+        },
+        {
+            "author": "Mohsen Guizani",
+            "university": "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+            "country": "UAE",
+            "location": "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+        }
+    ],
+    "universities": [
+        "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing",
+        "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing",
+        "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing",
+        "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing",
+        "School of Electronic Engineering, Beijing University of Posts and Telecommunications, Beijing",
+        "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)"
+    ],
+    "countries": [
+        "China",
+        "China",
+        "China",
+        "China",
+        "China",
+        "UAE"
+    ],
+    "locations": [
+        "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China",
+        "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China",
+        "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China",
+        "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China",
+        "School of Electronic Engineering, Beijing University of Posts and Telecommunications, Beijing, China",
+        "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE"
+    ],
+    "Date": "22 August 2024",
+    "Month": "August",
+    "Day": 22,
+    "Year": 2024,
+    "abstract": "Recently, 6G has attracted widespread attention from both academia and industry. 6G networks are expected to exhibit even more heterogeneity than 5G networks, and support various emerging scenarios and applications such as virtual and augmented reality (VR/AR), air/space/ground networks, and Internet of Things. Such massive heterogeneous devices pose huge challenges for network control and management. Recently, advances in artificial intelligence have brought to a new clan of networks, termed as self-driving 6G networks. It utilizes network telemetry, artificial intelligence, and DevOps to simplify networks and operations, helping network owners improve network quality, as well as increase efficiency. However, the current network is built on closed merchant switching ASICs and a homegrown management and control system. Self-driving an opaque system without really knowing and controlling what they do is a hazardous and fruitless endeavor. Fortunately, the network programmability technology opens the possibility for running self-driving algorithms over the whole network. In this paper, we design a full-dimensional programmability empowered self-driving 6G network architecture. We discuss how network programmability can promote the release of network intelligence, from the view of both verticality (control and data plane) and horizontality (end to end). Moreover, three use cases are designed to demonstrate that the proposed architecture can automatically cope with the dynamically changing complex network environment, realize automatic perception and automatic decision, and then facilitate the automation level of the network and enhance the performance of the network.",
+    "doi": "https://doi.org/10.1109/MNET.2024.3448288",
+    "citations": 50,
+    "type": "RESEARCH-ARTICLE",
+    "keywords": [
+        "6G mobile communication",
+        "Switches",
+        "Computer architecture",
+        "Control systems",
+        "Artificial intelligence",
+        "Telemetry",
+        "Network architecture"
+    ],
+    "topic": "DevOps",
+    "website": "IEEE Xplore",
+    "publisher": {
+        "name": "IEEE Network",
+        "ISSN": "1558156X",
+        "Quartile": "Q1"
+    }
+},
+{
+    "title": "Monza: An Energy-Minimal, General-Purpose Dataflow SoC for the Internet of Things",
+    "authors": [
+        "Nathan Beckmann",
+        "Brandon Lucia",
+        "Graham Gobieski",
+        "Tony Nowatzki",
+        "Thomas Jackson",
+        "GuÃ©nolÃ© Lallement",
+        "Keyi Zhang",
+        "Amolak Nagi",
+        "Atharv Sathe",
+        "Harsh Desai"
+    ],
+    "authors_with_affiliations": [
+        {
+            "author": "Nathan Beckmann",
+            "university": "Efficient Computer, Pittsburgh, PA",
+            "country": "USA",
+            "location": "Efficient Computer, Pittsburgh, PA, USA"
+        },
+        {
+            "author": "Brandon Lucia",
+            "university": "Efficient Computer, Pittsburgh, PA",
+            "country": "USA",
+            "location": "Efficient Computer, Pittsburgh, PA, USA"
+        },
+        {
+            "author": "Graham Gobieski",
+            "university": "Efficient Computer, Pittsburgh, PA",
+            "country": "USA",
+            "location": "Efficient Computer, Pittsburgh, PA, USA"
+        },
+        {
+            "author": "Tony Nowatzki",
+            "university": "Efficient Computer, Pittsburgh, PA",
+            "country": "USA",
+            "location": "Efficient Computer, Pittsburgh, PA, USA"
+        },
+        {
+            "author": "Thomas Jackson",
+            "university": "Efficient Computer, Pittsburgh, PA",
+            "country": "USA",
+            "location": "Efficient Computer, Pittsburgh, PA, USA"
+        },
+        {
+            "author": "GuÃ©nolÃ© Lallement",
+            "university": "Efficient Computer, New York City, NY",
+            "country": "USA",
+            "location": "Efficient Computer, New York City, NY, USA"
+        },
+        {
+            "author": "Keyi Zhang",
+            "university": "Efficient Computer, Santa Clara, CA",
+            "country": "USA",
+            "location": "Efficient Computer, Santa Clara, CA, USA"
+        },
+        {
+            "author": "Amolak Nagi",
+            "university": "Efficient Computer, Santa Clara, CA",
+            "country": "USA",
+            "location": "Efficient Computer, Santa Clara, CA, USA"
+        },
+        {
+            "author": "Atharv Sathe",
+            "university": "Efficient Computer, Pittsburgh, PA",
+            "country": "USA",
+            "location": "Efficient Computer, Pittsburgh, PA, USA"
+        },
+        {
+            "author": "Harsh Desai",
+            "university": "Efficient Computer, Pittsburgh, PA",
+            "country": "USA",
+            "location": "Efficient Computer, Pittsburgh, PA, USA"
+        }
+    ],
+    "universities": [
+        "Efficient Computer, Pittsburgh, PA",
+        "Efficient Computer, Pittsburgh, PA",
+        "Efficient Computer, Pittsburgh, PA",
+        "Efficient Computer, Pittsburgh, PA",
+        "Efficient Computer, Pittsburgh, PA",
+        "Efficient Computer, New York City, NY",
+        "Efficient Computer, Santa Clara, CA",
+        "Efficient Computer, Santa Clara, CA",
+        "Efficient Computer, Pittsburgh, PA",
+        "Efficient Computer, Pittsburgh, PA"
+    ],
+    "countries": [
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA"
+    ],
+    "locations": [
+        "Efficient Computer, Pittsburgh, PA, USA",
+        "Efficient Computer, Pittsburgh, PA, USA",
+        "Efficient Computer, Pittsburgh, PA, USA",
+        "Efficient Computer, Pittsburgh, PA, USA",
+        "Efficient Computer, Pittsburgh, PA, USA",
+        "Efficient Computer, New York City, NY, USA",
+        "Efficient Computer, Santa Clara, CA, USA",
+        "Efficient Computer, Santa Clara, CA, USA",
+        "Efficient Computer, Pittsburgh, PA, USA",
+        "Efficient Computer, Pittsburgh, PA, USA"
+    ],
+    "Date": "24 July 2024",
+    "Month": "July",
+    "Day": 24,
+    "Year": 2024,
+    "abstract": "This paper describes the design and implementation of Monza , a testchip SoC featuring Efficient Computer Companyâs Fabric processor. The Fabric is a general-purpose, spatial-dataflow architecture and compiler designed to minimize energy. The Fabric offers a unique combination of familiar software DevOps and extreme efficiency. Monza includes a small Fabric, a RISCV core, 1MB SRAM, digital I/O, and integrated clock generation and power conversion. Monza is implemented in 22nm FD-SOI process and was taped out in Q4â23. Signoff timing and power simulations estimate up to 550 GOPS/W @ 310 Î¼W on a dense convolution kernel written in C.",
+    "doi": "https://doi.org/10.1109/MM.2024.3426611",
+    "citations": 188,
+    "type": "RESEARCH-ARTICLE",
+    "keywords": [
+        "Fabrics",
+        "Internet of Things",
+        "Standards",
+        "Hardware",
+        "Energy efficiency",
+        "Codes",
+        "Pipelines"
+    ],
+    "topic": "DevOps",
+    "website": "IEEE Xplore",
+    "publisher": {
+        "name": "IEEE Micro",
+        "ISSN": "19374143",
+        "Quartile": "Q1"
+    }
+}
+]
